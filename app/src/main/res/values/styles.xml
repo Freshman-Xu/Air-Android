@@ -1,8 +1,16 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.Sherlock.Light">
-        <!-- Customize your theme here. -->
+    <style name="Theme.Spring" parent="Theme.Sherlock.Light">
+        <item name="actionBarStyle">@style/Widget.Spring.ActionBar</item>
+        <item name="android:actionBarStyle">@style/Widget.Spring.ActionBar</item>
     </style>
+
+    <style name="Widget.Spring.ActionBar" parent="Widget.Sherlock.Light.ActionBar">
+        <item name="background">#FFFFFF</item>
+        <item name="android:background">#FFFFFF</item>
+    </style>
+
+    <!-- Base widget theme. -->
 
 </resources>
