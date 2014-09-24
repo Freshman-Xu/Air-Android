@@ -1,13 +1,11 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="Theme.Spring" parent="Theme.Sherlock.Light">
-        <item name="actionBarStyle">@style/Widget.Spring.ActionBar</item>
+    <style name="Theme.Spring" parent="android:Theme.Holo.Light">
         <item name="android:actionBarStyle">@style/Widget.Spring.ActionBar</item>
     </style>
 
-    <style name="Widget.Spring.ActionBar" parent="Widget.Sherlock.Light.ActionBar">
-        <item name="background">#FFFFFF</item>
+    <style name="Widget.Spring.ActionBar" parent="android:Widget.Holo.Light.ActionBar">
         <item name="android:background">#FFFFFF</item>
     </style>
 
