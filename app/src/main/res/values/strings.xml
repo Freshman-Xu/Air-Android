@@ -14,4 +14,14 @@
     <string name="action_example">Example action</string>
     <string name="action_settings">Settings</string>
 
+    <!-- Nagivation Drawer -->
+    <string name="ticket_order">机票订单</string>
+    <string name="hotel_order">酒店订单</string>
+    <string name="my_account">我的账户</string>
+    <string name="my_coupons">我的优惠券</string>
+    <string name="my_reservation">我的预约机票</string>
+    <string name="sweep">扫一扫</string>
+    <string name="healthy">健康园地</string>
+    <string name="setting">设置</string>
+
 </resources>
